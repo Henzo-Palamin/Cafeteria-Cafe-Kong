@@ -29,4 +29,4 @@ This project represents the beginning of my journey as a Front-End Developer. It
 
 As I continue learning new technologies and improving my skills, I plan to build more projects that reflect my growth as a developer.
 
-Live on: https://henzo-palamin.github.io/cafeteria/index.html
+Live on: https://henzo-palamin.github.io/cafeteria/index.html](https://henzo-palamin.github.io/Cafeteria-Cafe-Kong/
